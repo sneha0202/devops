@@ -1,1 +1,3 @@
 this is cmd test file for git
+//Added payment
+Added samsung pay 
